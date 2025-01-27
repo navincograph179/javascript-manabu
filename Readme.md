@@ -1,4 +1,4 @@
-# JavaScript Basics - Exercises and Answers
+1. JavaScript Basics - Exercises and Answers
 
 This document contains **basic to intermediate JavaScript exercises** along with their **answers**. Each question is provided in both **English** and **Japanese**.
 
@@ -137,3 +137,6 @@ Create an object called `calculator` with methods `add`, `subtract`, `multiply`,
 (`calculator` というオブジェクトを作成し、`add`, `subtract`, `multiply`, `divide` というメソッドを追加してください。各メソッドは2つの数字を受け取り、結果を返します。`this` を使ってオブジェクトのプロパティを参照してください。)
 
 ---
+
+2. DOM MANUPULATION(作成中です。)
+上記の内容の勉強を終わりましたらナビンまで連絡くだいさい。
